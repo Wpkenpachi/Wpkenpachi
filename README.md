@@ -5,6 +5,8 @@
     </em>
 </p>
 
+[![Linkedin: Wesley Paulo](https://img.shields.io/badge/-Wesley%20Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/wesley-paulo-20701a15a/)
+[![GitHub Wpkenpachi](https://img.shields.io/github/followers/Wpkenpachi?label=follow&style=social)](https://github.com/Wpkenpachi)
 ### Aboute Me
 <div style='display: flex;flex-wrap: wrap;'>
 
