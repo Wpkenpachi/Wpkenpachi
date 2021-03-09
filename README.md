@@ -4,7 +4,7 @@
     <img' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
     </em>
 </p>
-<img align='right' src="assets/kenchan.jpg" height='370' width="230">
+<img align='right' src="assets/kenchan.jpg" height='370' width="225">
 
 ### Aboute Me
-<img src="assets/carbon.svg" width='590'># Wpkenpachi
+<img src="assets/carbon.svg" width='585'>
