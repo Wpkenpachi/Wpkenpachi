@@ -7,4 +7,4 @@
 <img align='right' src="assets/kenchan.jpg" height='370' width="230">
 
 ### Aboute Me
-<img src="assets/carbon.svg" width='600'># Wpkenpachi
+<img src="assets/carbon.svg" width='590'># Wpkenpachi
