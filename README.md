@@ -34,11 +34,13 @@
 
 
 ### 📈 Statistics and Languages
- 
+
+<div style='display: flex; flax-wrap: wrap;'>
+
 [![Wpkenpachi github stats](https://github-readme-stats.vercel.app/api?username=Wpkenpachi&theme=radical&show_icons=true)](https://github.com/Wpkenpachi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wpkenpachi&hide=css,html,java&langs_count=8&layout=compact&theme=radical)](https://github.com/Wpkenpachi/github-readme-stats)
-
+</div>
 
 ## Contact ✉️
 [![Linkedin: Wesley Paulo](https://img.shields.io/badge/-Wesley%20Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/wesley-paulo-20701a15a/)
