@@ -1,7 +1,7 @@
 ## Hi There!
 - 👋 I'm **Wesley Paulo**, 24 years old.
 - 📌  From Vitória da Conquista - Ba, BR.
-- 💼 Currently Backend Developer at [*Zappts Tecnologia*](https://zappts.com).
+- 💼 Currently Backend Developer at [*Zappts*](https://zappts.com).
 - 🎓 Graduated in Analysis and Systems Development at Unopar
 
 <img src="assets/kenchan.jpg" height='370' width="225">
@@ -44,3 +44,6 @@
 
 ## Contact ✉️
 [![Linkedin: Wesley Paulo](https://img.shields.io/badge/-Wesley%20Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/wesley-paulo-20701a15a/)
+
+## Readme Sources
+https://github.com/anuraghazra/github-readme-stats
