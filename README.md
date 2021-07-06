@@ -1,7 +1,7 @@
 ## Hi There!
 - 👋 I'm **Wesley Paulo**, 24 years old.
 - 📌  From Vitória da Conquista - Ba, BR.
-- 💼 Currently Backend Developer Freelancer.
+- 💼 Currently Backend Developer at [Catho Online](https://www.catho.com.br).
 - 🎓 Graduated in Analysis and Systems Development at Unopar
 
 <img src="assets/kenchan.jpg" height='370' width="225">
